@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/hoangcuong2k1.github.io/hoangcuong.github.io/static/js/main.84360558.js",
-    "static/js/377.14e52f5f.chunk.js": "/hoangcuong2k1.github.io/hoangcuong.github.io/static/js/377.14e52f5f.chunk.js",
-    "index.html": "/hoangcuong2k1.github.io/hoangcuong.github.io/index.html",
-    "main.84360558.js.map": "/hoangcuong2k1.github.io/hoangcuong.github.io/static/js/main.84360558.js.map",
-    "377.14e52f5f.chunk.js.map": "/hoangcuong2k1.github.io/hoangcuong.github.io/static/js/377.14e52f5f.chunk.js.map"
+    "main.js": "/hoangcuong.github.io/static/js/main.dbb02d6d.js",
+    "static/js/377.14e52f5f.chunk.js": "/hoangcuong.github.io/static/js/377.14e52f5f.chunk.js",
+    "index.html": "/hoangcuong.github.io/index.html",
+    "main.dbb02d6d.js.map": "/hoangcuong.github.io/static/js/main.dbb02d6d.js.map",
+    "377.14e52f5f.chunk.js.map": "/hoangcuong.github.io/static/js/377.14e52f5f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.84360558.js"
+    "static/js/main.dbb02d6d.js"
   ]
 }
